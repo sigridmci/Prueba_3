@@ -1,0 +1,26 @@
+body{
+    background-color: #FFBA70;
+}
+
+
+.carousel-inner{
+    max-height: 39rem;
+}
+
+
+.img{
+
+    
+    height: 100px;
+}
+
+img{
+    max-height: 39rem;
+}
+
+
+
+.footer{
+    color:aliceblue;
+    background: black;
+}
